@@ -68,3 +68,11 @@ You may refer to this [stackoverflow link](https://stackoverflow.com/questions/3
 2. Modify the file, save it and create a new commit.
 
 ### Push to remote
+
+![how-to-push](assets/how-to-push.png)
+
+1. Go to VSCode
+2. Open Source Control (`Ctrl+Shift+G`)
+3. Ensure you are up to date with remote
+4. Click on the `...` button on the top.
+5. Click on `push` to push to remote.
