@@ -61,4 +61,10 @@ You may refer to this [stackoverflow link](https://stackoverflow.com/questions/3
 
 ### Resolving conflict
 
+![how-to-conflict-2](assets/how-to-conflict-2.png)
+![how-to-conflict-1](assets/how-to-conflict-1.png)
+
+1. After you click pull, if there is merge conflict you'll see the following highlighting.
+2. Modify the file, save it and create a new commit.
+
 ### Push to remote
