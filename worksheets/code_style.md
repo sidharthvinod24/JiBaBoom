@@ -4,9 +4,7 @@ This documents helps to guide the look and feel of the code so that even when th
 
 ## Style Guide
 
-> Choose one out of the few option or suggest your own style. You may add more rules if you like.
-
-| Rules             | Value                           |
+| Rules             | Choices                         |
 | ----------------- | ------------------------------- |
 | Case Styles       | camelCase/snake_case/PascalCase |
 | Acronym Case      | IBM/Ibm/ibm                     |
@@ -17,7 +15,7 @@ This documents helps to guide the look and feel of the code so that even when th
 
 ## Examples
 
-Based on your chosen style guide, give an example of a code that follows the code style and an example of a code that does not follow the code style. The examples you give should cover all the above defined rule.
+Based on your chosen rules, give an example of a code that follows the code style and an example of a code that does not follow the code style. The examples you give should cover all the above defined rule.
 
 ### Good Example
 
