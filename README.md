@@ -40,7 +40,7 @@ You may refer to this [stackoverflow link](https://stackoverflow.com/questions/3
 
 ### Creating a new commit
 
-![how-to-commit](assets/how-to-stage.png)
+![how-to-commit](assets/how-to-commit.png)
 
 1. Go to VSCode
 2. Open Source Control (`Ctrl+Shift+G`)
