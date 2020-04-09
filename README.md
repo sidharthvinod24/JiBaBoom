@@ -51,6 +51,14 @@ You may refer to this [stackoverflow link](https://stackoverflow.com/questions/3
 
 ### Pull from remote
 
+![how-to-pull](assets/how-to-pull.png)
+
+1. Go to VSCode
+2. Open Source Control (`Ctrl+Shift+G`)
+3. Ensure you have no uncommited changes
+4. Click on the `...` button on the top.
+5. Click on `pull` to pull from remote.
+
 ### Resolving conflict
 
 ### Push to remote
