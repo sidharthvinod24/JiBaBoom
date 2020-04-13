@@ -12,12 +12,11 @@
     1. ADES - https://classroom.github.com/g/Vcrmt0EG
     2. FSP - https://classroom.github.com/g/l3LALcr5
 3. Clone the repository to your computer. [How?](#cloning-repository)
-4. Edit the README.md file and add your name [above](#names)
-5. Stage the changes. [How?](#staging-changes)
-6. Create a new commit. [How?](#creating-a-new-commit)
-7. Pull from remote. [How?](#pull-from-remote)
-8. Resolve any conflict. [How?](#resolving-conflict)
-9. Push to remote. [How?](#push-to-remote)
+4. Stage some changes. [How?](#staging-changes)
+5. Create a new commit. [How?](#creating-a-new-commit)
+6. Pull from remote. [How?](#pull-from-remote)
+7. Resolve any conflict. [How?](#resolving-conflict)
+8. Push to remote. [How?](#push-to-remote)
 
 ### Cloning Repository
 
@@ -26,7 +25,7 @@ You may refer to this [stackoverflow link](https://stackoverflow.com/questions/3
 1. Go to VSCode
 2. Open Command Palette (`Ctrl+Shift+P`)
 3. Type `Git: Clone`
-4. Copy and paste your team's repository url `https://github.com/ADES-FSP/jibaboom-TEAMNAME`
+4. Copy and paste your team's repository url (e.g. `https://github.com/ADES-FSP/jibaboom-TEAMNAME`)
 5. Choose where you want the folder to be downloaded to.
 6. Clone. Done.
 
@@ -35,10 +34,11 @@ You may refer to this [stackoverflow link](https://stackoverflow.com/questions/3
 ![how-to-stage](assets/how-to-stage.png)
 
 1. Go to VSCode
-2. Open Source Control (`Ctrl+Shift+G`)
-3. Under `CHANGES` you should see `README.md`
-4. Click the plus sign (`+`) to stage the file.
-5. You see the file appear under `STAGED CHANGES`
+2. Edit the README.md file and add your name [above](#names)
+3. Open Source Control (`Ctrl+Shift+G`)
+4. Under `CHANGES` you should see `README.md`
+5. Click the plus sign (`+`) to stage the file.
+6. You see the file appear under `STAGED CHANGES`
 
 ### Creating a new commit
 
