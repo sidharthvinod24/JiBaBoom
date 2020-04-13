@@ -10,7 +10,7 @@
 1. Setup a Github account (Using any account)
 2. Accept and access the assignment here: 
     1. ADES - https://classroom.github.com/g/Vcrmt0EG
-    2. FSP - https://classroom.github.com/g/erIUtrDo
+    2. FSP - https://classroom.github.com/g/l3LALcr5
 3. Clone the repository to your computer. [How?](#cloning-repository)
 4. Edit the README.md file and add your name [above](#names)
 5. Stage the changes. [How?](#staging-changes)
