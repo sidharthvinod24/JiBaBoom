@@ -4,6 +4,16 @@ You are given the set of input and a few queries. Fill in the results based on t
 
 # Basic
 
+## Algorithm
+
+1. Correctly select the set of tasks for computation
+2. Sort the tasks by increasing order of their deadline
+3. Calculate the start time and end time of each task
+4. Calculate the lateness of each task
+5. Sum up all lateness
+
+Name of problem: **Minimize latness**
+
 ## Basic Input
 
 |   taskId   | projectId  |  dueDate   | dueTime | duration |
@@ -94,6 +104,12 @@ Total lateness: ?
 Total lateness: ?
 
 # Advance
+
+## Algorithm
+
+Name of problem: **Partition Problem**
+
+> Hint: It is possible to solve this problem by modeling it as a 0-1 knapsack problem.
 
 ## Advance Input
 

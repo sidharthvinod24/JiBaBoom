@@ -4,6 +4,19 @@ You are given the set of input and a few queries. Fill in the results based on t
 
 # Basic
 
+## Algorithm
+
+1. Correctly select the set of availability data for computation
+2. Split each data into 2 event the start event and end event, e.g. split [1000, 1045] to ("Start", 1000) and ("End", 1045)
+3. Sort the event based on time.
+4. Maintain a counter, starting from 0.
+5. For each of the event
+    1. If it is a "Start" event, increment the counter by 1
+    2. Otherwise, decrement the counter by 1
+    3. Record the time period
+
+Name of problem: **Counting Overlapping Intervals**
+
 ## Basic Input
 
 | availabilityId | participantId | meetingId  | startTime | endTime |
@@ -76,6 +89,16 @@ participants: ?
 fromTime: ?
 toTime: ?
 participants: ?
+
+# Advance
+
+## Algorithm
+
+Name of problem: **Counting Overlapping Interval**
+
+Modified to increase difficulty
+
+> Hint: Simply invert all unavailability data into availability data. And throw it into the basic problem.
 
 ## Advance Input
 

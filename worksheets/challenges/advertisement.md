@@ -4,6 +4,15 @@ You are given the set of input and a few queries. Fill in the results based on t
 
 # Basic
 
+## Algorithm
+
+1. Correctly select the set of options for computation
+2. Sort options by increasing order of audienceCount/cost.
+3. Throw as much money into the lowest audienceCount/cost.
+4. Repeat until either there's no more option or no more budget.
+
+Name of problem: **Fractional Knapsack**
+
 ## Basic Input
 
 | optionId   | companyId  | audienceCount | cost |
@@ -90,6 +99,12 @@ You are given the set of input and a few queries. Fill in the results based on t
 | 1000000016 | ?      |
 
 # Advance
+
+## Algorithm
+
+Name of problem: **0-1 Knapsack**
+
+> Hint: This problem has alot of solutions out there, go find it.
 
 ## Advance Input
 

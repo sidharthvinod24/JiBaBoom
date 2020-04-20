@@ -4,6 +4,15 @@ You are given the set of input and a few queries. Fill in the results based on t
 
 # Basic
 
+## Algorithm
+
+1. Correctly select the set of lectures for computation
+2. Sort lectures by startTime
+3. Find a suitable hall for the lecture; if no hall exists create a new hall
+4. When creating a new hall, keep track of the end time of the last lesson.
+
+Name of problem: **Interval Scheduling**
+
 ## Input
 
 | lectureId  | facultyId  | semesterId | dayOfWeek | startTime | endTime |
@@ -87,6 +96,14 @@ You are given the set of input and a few queries. Fill in the results based on t
 > Which lectures are invovled and which halls are they allocated to?
 
 # Advance
+
+## Algorithm
+
+Name of problem: **Overlapping Interval**
+
+Modified to increase difficulty of problem
+
+> Hint: Think about how a technician is actually an invert of a lecture.
 
 ## Input
 

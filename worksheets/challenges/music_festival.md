@@ -4,6 +4,17 @@ You are given the set of input and a few queries. Fill in the results based on t
 
 # Basic
 
+## Algorithm
+
+1. Correctly select the set of performances for computation
+2. Sort the performances by increasing order of their finishing time.
+3. Maintain a list of selected performance
+4. Iterate through each of the sorted performance
+    1. If it doesn't clash with any selected performance, add it to the list
+    2. Otherwise skip that performance.
+
+Name of problem: **Activity Selection**
+
 ## Basic Input
 
 | performanceId | festivalId | startTime | endTime |
@@ -77,6 +88,12 @@ You are given the set of input and a few queries. Fill in the results based on t
 | 1             | ?              |
 
 # Advance
+
+## Algorithm
+
+Name of problem: **Weighted Activity Selection**
+
+> Hint: It is sufficient to implement a linear search instead of a binary search.
 
 ## Advance Input
 
