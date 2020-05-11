@@ -102,7 +102,7 @@ Modified to increase difficulty
 
 ## Advance Input
 
-| availabilityId | participantId | meetingId  | startTime | endTime |
+| unavailabilityId | participantId | meetingId  | startTime | endTime |
 | -------------- | ------------- | ---------- | --------- | ------- |
 | 1000000001     | 1100000001    | 1110000001 | 1000      | 1045    |
 | 1000000002     | 1100000001    | 1110000001 | 1030      | 1100    |
